@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/add_item"
+        android:title="添加"/>
+    <item
+        android:id="@+id/change_background"
+        android:title="更换背景"/>
+    <item
+        android:id="@+id/force_offline"
+        android:title="退出登录"/>
+</menu>

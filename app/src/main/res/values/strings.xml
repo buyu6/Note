@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NewNote</string>
+    <string name="标题">标题</string>
+    <string name="添加">添加</string>
+    <string name="保存">保存</string>
+    <string name="item_id">item_id</string>
+</resources>
